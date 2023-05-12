@@ -1,5 +1,5 @@
-# Death_Rate
-The Death Rate of Civilians in Iraq
+# Kill_Rate
+The kill Rate of Civilians in Iraq
 This organization aims to collect and analyze data on the death rate of Iraqi civilians during the Iraq War. The goal is to provide an accurate representation of the human cost of the war and to shed light on the impact of violence on civilian populations.
 
 Data Sources
